@@ -18,6 +18,7 @@ article{
 }
 a {
     color: #0066ff;
+    font-size: 25px;
 }
 
 h1 {
@@ -75,7 +76,8 @@ article h1 {
     font-size:35px;}
 article h2 {
     font-size: 35px;}
-
+a{
+    font size: 35px;}
 
     
 

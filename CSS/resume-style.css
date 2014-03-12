@@ -17,6 +17,7 @@ article{
     margin-right: 15px;
 }
 a {
+    font-size: 25px;
     color: #0066ff;
 }
 
@@ -36,7 +37,7 @@ h2 {
 h3 {
     color: #990066;
     font-family: inherit;
-    font-size: 23px;
+    font-size: 21px;
 }
 p {
     color: #990066;
@@ -57,18 +58,6 @@ nav a {
     text-decoration: none;
 }
 
-.photo-with-caption {
-    margin: 4px 20px 0 0;
-    width: 400px;
-    float: left;
-}
-
-.photo-with-caption img {
-    width: 100%;   
-}
-
-.photo-with-caption p {
-    font-size: 14px;
 }
 footer nav {
     font-size: 20px;}
