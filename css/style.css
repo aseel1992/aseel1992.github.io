@@ -70,6 +70,20 @@ nav a {
     font-size: 14px;
 }
 
+.gym-pic { margin: 4px 20px 0 0;
+    height: 260px;
+    width: 400px;
+    float: left;}
+
+.gym-pic img {width: 100%;}
+
+.uf-journalism {margin: 4px 20px 0 0;
+    width: 400px;
+    float: left;}
+
+.uf-journalism img {
+    width: 100%;}
+
 footer nav{
     font-size: 20px;
 }
@@ -80,12 +94,32 @@ article h1 {
 article h2 {
     font-size: 35px;}
 
-a{
-    font size: 35px;}
-
 figcaption { color: #0066ff;
 }
 
 footer p {margin: 0;
     padding: 0;}
+
+.facebook-icon {margin:4px 20px 0 0;}
+
+.facebook-icon img {width: 8%;
+    border: 5px solid #ffebcd;
+    margin-right: 15px;
+    padding: .5%; /*TRouBLe */}
+
+
+.linkedin-icon img {4px 20px 0 0;}
+
+.linkedin-icon img {width: 8%;
+    border: 5px solid #ffebcd;
+    margin-right: 15px;
+    padding: .5%; /*TRouBLe */}
+
+.email-icon { margin:4px 20px 0 0;}
+
+.email-icon img {width: 8%;
+    border: 5px solid #ffebcd;
+    margin-right: 15px;
+    padding: .5%; /*TRouBLe */}
+
 
