@@ -69,16 +69,23 @@ nav a {
 .photo-with-caption p {
     font-size: 14px;
 }
+
 footer nav{
     font-size: 20px;
 }
+
 article h1 {
     font-size:35px;}
+
 article h2 {
     font-size: 35px;}
+
 a{
     font size: 35px;}
 
-    
+figcaption { color: #0066ff;
+}
 
+footer p {margin: 0;
+    padding: 0;}
 
