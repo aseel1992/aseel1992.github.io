@@ -94,17 +94,17 @@ article h1 {
 article h2 {
     font-size: 35px;}
 
-figcaption { color: #0066ff;
+figcaption {color: #0066ff;
 }
 
 footer p {margin: 0;
     padding: 0;}
 
-.facebook-icon {margin:4px 20px 0 0;}
+.facebook-icon {margin: 4px 5px 0 0;}
 
 .facebook-icon img {width: 8%;
     border: 5px solid #ffebcd;
-    margin-right: 15px;
+    margin-right: 5px;
     padding: .5%; /*TRouBLe */}
 
 .linkedin-icon img {margin: 4px 20px 0 0;}
