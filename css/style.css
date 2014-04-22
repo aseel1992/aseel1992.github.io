@@ -86,12 +86,15 @@ nav a {
 
 .uf-journalism {margin: 4px 20px 0 0;
     width: 400px;
+    clear: both;
     float: left;}
 
 .uf-journalism img {
     width: 100%;}
 
-
+.hobbywords {
+    margin-top: 185px;
+}
 article h1 {
     font-size:35px;}
 
@@ -107,32 +110,16 @@ footer p {margin-left: 15px;
     float: left;
 }
 
-.facebook-icon {
+.social-icon {
+    clear: both;
+}
+
+.social-icon img {
     float: left;
-    margin: 4px 5px 0 0;}
-
-.facebook-icon img {width:100px;
-    border: 5px solijourd #ffebcd;    
-    margin-right: 5px;
-    padding: .50%; /*TRouBLe */}
-
-.linkedin-icon {clear: both;
-    margin: 4px 20px 0 0;
-float: left;}
-
-.linkedin-icon img {width: 100px;
-    border: 5px solid #ffebcd;
-    margin-right: 15px;
-    padding: .5%; /*TRouBLe */}
-
-.email-icon {clear: both;
-    float: left; 
-    margin:4px 20px 0 0;}
-
-.email-icon img {width: 100px;
-    border: 5px solid #ffebcd;
-    margin-right: 15px;
-    padding: .5%; /*TRouBLe */}
+    margin-bottom: 20px;
+    margin-right: 20px;
+    width: 100px;
+}
 
 .graduation  {margin: 4px 20px 0 0;
     height: 350px;
@@ -143,8 +130,11 @@ float: left;}
 .future {margin: 4px 20px 0 0;
     height: 400px;
     width: 400px;
+    clear: both;
     float: left;}
 
 .future img { width: 100%;}
+
+.futurewords {margin-top: 163px;}
 
 footer {clear: both;}
