@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #90ee90;
+    background-color: #990066;
     margin-top: 0;
     padding: 1px 0 10px 20px;
 }
@@ -17,30 +17,37 @@ article{
     margin-right: 15px;
 }
 a {
-    color: #0066ff;
+    color: #3399ff;
     font-size: 22px;
 }
 
-h1 {
-    color: #990066;
+h1 { 
+    color: #eeeeee;
     font-family: cursive, fantasy;
     font-size: 60px;
     line-height: 60px;
     margin-bottom: 0;
 }
-h2 {
+
+h2{ 
     color: #990066;
     font-family: cursive;
     font-size: 35px;
     line-height:35px;
+}
+.clearfix {
+    clear: both;
+}
 
+header h2 {
+    color: #eeeeee;
 }
 img {
     border: 5px solid #ffebcd;
     padding: 1%; /*TRouBLe */
 }
 p {
-    color: #990066;
+    color: #444444;
     font-size: 22px;
 }
 nav {
@@ -52,7 +59,7 @@ nav {
 }
 
 nav a {
-    color: #90ee90;
+    color: #3399ff;
     text-decoration: none;
 }
 
@@ -84,9 +91,6 @@ nav a {
 .uf-journalism img {
     width: 100%;}
 
-footer nav{
-    font-size: 20px;
-}
 
 article h1 {
     font-size:35px;}
@@ -97,28 +101,50 @@ article h2 {
 figcaption {color: #0066ff;
 }
 
-footer p {margin: 0;
-    padding: 0;}
+footer p {margin-left: 15px;
+    padding: 0;
+    clear: both;
+    float: left;
+}
 
-.facebook-icon {margin: 4px 5px 0 0;}
+.facebook-icon {
+    float: left;
+    margin: 4px 5px 0 0;}
 
-.facebook-icon img {width: 8%;
-    border: 5px solid #ffebcd;
+.facebook-icon img {width:100px;
+    border: 5px solijourd #ffebcd;    
     margin-right: 5px;
-    padding: .5%; /*TRouBLe */}
+    padding: .50%; /*TRouBLe */}
 
-.linkedin-icon img {margin: 4px 20px 0 0;}
+.linkedin-icon {clear: both;
+    margin: 4px 20px 0 0;
+float: left;}
 
-.linkedin-icon img {width: 8%;
+.linkedin-icon img {width: 100px;
     border: 5px solid #ffebcd;
     margin-right: 15px;
     padding: .5%; /*TRouBLe */}
 
-.email-icon { margin:4px 20px 0 0;}
+.email-icon {clear: both;
+    float: left; 
+    margin:4px 20px 0 0;}
 
-.email-icon img {width: 8%;
+.email-icon img {width: 100px;
     border: 5px solid #ffebcd;
     margin-right: 15px;
     padding: .5%; /*TRouBLe */}
 
+.graduation  {margin: 4px 20px 0 0;
+    height: 350px;
+    width: 400px;
+    float: left;}
+.graduation img { width: 100%;}
 
+.future {margin: 4px 20px 0 0;
+    height: 400px;
+    width: 400px;
+    float: left;}
+
+.future img { width: 100%;}
+
+footer {clear: both;}
